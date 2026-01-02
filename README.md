@@ -1,6 +1,6 @@
 # Sound-To-Light PCB
 
-This repository contains the hardware design files for a **Sound-To-Light** project. This circuit is designed to capture audio input and convert it into a visual light display.
+This repository contains the hardware design files for a **Sound-To-Light** project. This circuit is designed to capture audio input and convert it into a visual light through the LEDS.
 
 ## 📸 Board Preview
 
