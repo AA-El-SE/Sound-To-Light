@@ -5,7 +5,7 @@ This repository contains the hardware design files for a **Sound-To-Light** proj
 ## 📸 Board Preview
 
 ### 3D View
-
+![3D PCB Render](./3D_PCB_1.png)
 
 ### Layout View
 ![PCB Layout](./PCB.png)
