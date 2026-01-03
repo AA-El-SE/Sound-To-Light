@@ -1,33 +1,58 @@
 # Sound-To-Light PCB
 
-This repository contains the hardware design files for a **Sound-To-Light** project. This circuit is designed to capture audio input and convert it into a visual light through the LEDS.
+This repository contains the hardware design files for a **Sound-To-Light** circuit.  
+The board captures an audio signal and converts it into a visual response using LEDs, where the light intensity reacts to the sound level.
+
+---
 
 ## 📸 Board Preview
 
 ### 3D View
 ![3D PCB Render](./3D_PCB_1.png)
 
-### Layout View
+### PCB Layout
 ![PCB Layout](./PCB.png)
 
-## 📂 Repository Contents
+---
 
-* **`Light to sound.zip`**: Contains the source files for manufacturing:
-    * Gerber Files (for PCB fabrication)
-    * Schematic Diagram
-    * PCB Layout
-* **`3D_PCB.png`**: 3D render preview (shown above).
-* **`PCB.png`**: 2D layout view (shown above).
-* **`LICENSE`**: MIT License.
+## 🛠 Tools Used
+
+- **KiCad** – Schematic capture and PCB layout
+- **Standard PCB manufacturing tools** – Gerber generation
+- **Lab equipment** – Functional testing (audio source, oscilloscope, LEDs, power supply)
+
+---
+
+## ✅ Results
+
+- Adjustable sound sensitivity
+- Audio input is successfully detected and processed
+- LEDs respond correctly to sound intensity
+- PCB works as expected after assembly
+- Stable operation with no observed functional issues
+
+---
+
+##  What I Learned
+
+Through this project, I gained practical experience in:
+
+- Designing analog circuits for audio signal processing
+- Converting audio signals into visual outputs using LEDs
+- PCB schematic capture and layout using KiCad
+- Generating Gerber files for PCB ordering of manufacturing
+- Testing and debugging hardware using lab equipment
+- Improving PCB functionality through iteration and validation
+
+This project strengthened my understanding of the complete hardware design flow, from concept to a working PCB.
+
+---
 
 ## 🚀 Getting Started
 
 ### Manufacturing
-You can use the Gerber files found in the `.zip` archive to order this board from any standard PCB manufacturer (e.g., JLCPCB, PCBWay, OSH Park).
+Use the Gerber files inside `Light to sound.zip` to order the PCB from any manufacturer.
 
-### Viewing the Design
-To edit or view the schematic and layout source files, ensure you have the appropriate ECAD software installed.
+### Viewing or Modifying the Design
+Open the schematic and PCB layout files using compatible ECAD software.
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
