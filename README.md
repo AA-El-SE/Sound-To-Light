@@ -15,7 +15,7 @@ The board captures an audio signal and converts it into a visual response using 
 
 ### Schematic
 ---
-![Schematic](./schematic.png)
+![Schematic](./Schematic.png)
 
 ## 🛠 Tools Used
 
