@@ -13,8 +13,9 @@ The board captures an audio signal and converts it into a visual response using 
 ### PCB Layout
 ![PCB Layout](./PCB.png)
 
+### Schematic
 ---
-
+(./schematic.png)
 ## 🛠 Tools Used
 
 - **KiCad** – Schematic capture and PCB layout
