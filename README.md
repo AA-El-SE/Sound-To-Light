@@ -6,6 +6,9 @@ The board captures an audio signal and converts it into a visual response using 
 ---
 
 ## 📸 Board Preview
+### Schematic
+---
+![Schematic](./Schematic.png)
 
 ### 3D View
 ![3D PCB Render](./3D_PCB_1.png)
@@ -13,9 +16,7 @@ The board captures an audio signal and converts it into a visual response using 
 ### PCB Layout
 ![PCB Layout](./PCB.png)
 
-### Schematic
----
-![Schematic](./Schematic.png)
+
 ## 🛠 Tools Used
 
 - **KiCad** – Schematic capture and PCB layout
